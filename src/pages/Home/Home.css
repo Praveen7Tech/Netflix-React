@@ -87,9 +87,9 @@
   bottom: 0%;
   border-top-left-radius: 50% 50%;
   border-top-right-radius: 50% 50%;
-  border-top: 3px solid red;
+  border-top: 3.5px solid red;
   background:  
-  linear-gradient(to bottom, #06066f, #0b0b0b),
+  linear-gradient(to bottom, #07073b, #000000),
   linear-gradient(to right, #000004, #000000, #000000);
 
   /* background: linear-gradient(to top,#070707,  #3e3e95); */
